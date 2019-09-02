@@ -1,0 +1,14 @@
+Documentation
+Telegram Bot for students
+last update of documentation: 02.08.2019
+last upgrade of code: 08.08.2019
+The following telegram-bot is created to make students' lives a bit easier. The main aim of it is collecting some data at one place, data which is spread among the internet and emails. At the current moment the lack of the bot's commands does not give an opportunity to use it frequently. However, the mastering of the programm is still in process, so some improvements are about to be acheived. Moreover, any suggestions are welcome, thus do not hesitate to imform the "author" about it.
+#Both upper and lower cases are appropriate, as well as spacing and tabulation.
+Smart mode was added to help students with calculations. Mode is based on wolframAlpha Api
+All available commands:
+	start / go                       shows the custom keyboard
+	meme                            sends a picture of mem from reddit
+	memerefresh              refresh meme package by reparsing reddit (usually there are no more than 5 memes in a package)
+	para                               informs the user about the number of the lesson and it's time interval or about break period depending on time
+	subject
+                   ...
