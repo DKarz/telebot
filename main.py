@@ -24,7 +24,7 @@ the_date = "02.09.2019" ####################################################
 def keyboard(msg_id):
     user_markup = telebot.types.ReplyKeyboardMarkup(True, False)
     user_markup.row("para", "meme", "smart mode")
-    user_markup.row("meme refresh", "subjects", "doc")
+    user_markup.row("subjects", "doc")
     user_markup.row("schedule")
    # user_markup.row("refresh sch")
     bot.send_message(msg_id, "...", reply_markup=user_markup)
