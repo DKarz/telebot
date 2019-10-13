@@ -26,7 +26,7 @@ def keyboard(msg_id):
     user_markup.row("para", "meme", "smart mode")
     user_markup.row("meme refresh", "subjects", "doc")
     user_markup.row("schedule")
-    user_markup.row("refresh sch")
+   # user_markup.row("refresh sch")
     bot.send_message(msg_id, "...", reply_markup=user_markup)
 
 
