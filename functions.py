@@ -1,7 +1,7 @@
 def paraNow():
     import time
     timeNow = time.ctime().split()[3].split(":")[:2]
-    timeNow[0] = int(timeNow[0])
+    timeNow[0] = int(timeNow[0]) +2
     timeNow[1] = int(timeNow[1])
 
     tN = timeNow[0] * 60 + timeNow[1]
