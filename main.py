@@ -29,7 +29,10 @@ def keyboard(msg_id):
    # user_markup.row("refresh sch")
     bot.send_message(msg_id, "...", reply_markup=user_markup)
 
-
+@bot.message_handler(content_types=["start"])
+def handle_text(message):
+    bot.send_message(message.chat.id, "Welcome")
+    keyboard(message.chat.id)
 
 @bot.message_handler(content_types=["text"])
 def handle_text(message):
