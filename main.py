@@ -31,7 +31,7 @@ def keyboard(msg_id):
 
 @bot.message_handler(commands=["start"])
 def handle_text(message):
-    bot.send_message(message.chat.id, "Welcome")
+    bot.send_message(message.chat.id, var.discript)
     keyboard(message.chat.id)
 
 @bot.message_handler(content_types=["text"])
