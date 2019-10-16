@@ -19,7 +19,7 @@ functions.everyday_update()
 
 
 
-the_date = "02.09.2019" ####################################################
+
 
 def keyboard(msg_id):
     user_markup = telebot.types.ReplyKeyboardMarkup(True, False)
