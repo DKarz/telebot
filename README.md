@@ -2,11 +2,14 @@
 A telegram bot which main goal is to help a dsba student.
 
 <p align="center">
-  First things first, let us launch the bot: <br/><br/>
+First things first, let us launch the bot: <br/><br/>
   <img width="300" src="https://github.com/DKarz/readme-media/blob/master/telebot1-1.gif?raw=true">
+  <br/><br/>
 </p>
 <p align="center">
+We can find out what's a lesson now:<br/><br/>
   <img width="300" src="https://github.com/DKarz/readme-media/blob/master/telebot1-2.gif?raw=true">
+  <br/><br/>
 </p>
 <p align="center">
   <img width="300" src="https://github.com/DKarz/readme-media/blob/master/telebot1-3.gif?raw=true">
