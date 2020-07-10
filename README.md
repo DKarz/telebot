@@ -1,5 +1,5 @@
 # telebot
-A telegram bot which main goal is to help a dsba student.
+A telegram bot whose main goal is to help students of dsba program (the author of bot study at).
 
 <p align="center">
 First things first, let us launch the bot. Choosing "/START" launches the bot and provides a user with its description.<br/><br/>
