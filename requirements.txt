@@ -15,7 +15,7 @@ html5lib==1.0.1
 idna==2.8
 inflect==2.1.0
 jaraco.itertools==4.4.2
-lxml==4.3.4
+lxml==4.6.5
 more-itertools==7.2.0
 package-name==0.1
 post==2019.4.13
