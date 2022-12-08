@@ -2,7 +2,7 @@ argh==0.26.2
 beautifulsoup4==4.7.1
 beautifulsoup4-slurp==0.0.2
 bs4==0.0.1
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 console==0.94
 docutils==0.14
